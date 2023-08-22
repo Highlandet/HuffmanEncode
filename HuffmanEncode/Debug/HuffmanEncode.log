@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\keren\source\repos\HuffmanEncode\HuffmanEncode\Source.cpp(131,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\keren\source\repos\HuffmanEncode\HuffmanEncode\Source.cpp(141,31): warning C4018: <: несоответствие типов со знаком и без знака
+  HuffmanEncode.vcxproj -> C:\Users\keren\source\repos\HuffmanEncode\Debug\HuffmanEncode.exe
